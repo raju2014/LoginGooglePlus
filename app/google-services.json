@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918806407163",
+    "project_id": "jovial-coral-167913"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918806407163:android:bb820dcdef20bfee",
+        "android_client_info": {
+          "package_name": "com.example.appstek.logingoogleplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918806407163-k45j80vhkdk7monvfdjr7p2p9u7gmv09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appstek.logingoogleplus",
+            "certificate_hash": "23c87297172f30babdfe062d2b9207c07364a473"
+          }
+        },
+        {
+          "client_id": "918806407163-co75gomb9rh8dcprt8voqhmjtp4777n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6J4QquKY5KclbsrQzHMvQ6cElKwXeZhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
